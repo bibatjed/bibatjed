@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Alt Text](https://github.com/bibatjed/bibatjed/blob/main/dancing-gopher.gif)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibatjed)](https://github.com/anuraghazra/github-readme-stats)
